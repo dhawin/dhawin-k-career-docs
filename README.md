@@ -4,7 +4,7 @@ This repository contains my professional resume and career documentation.
 
 ## View Resume
 
-**Live Resume:** [https://dhawin.github.io/dhawin-k-career-docs](https://dhawin.github.io/dhawin-k-career-docs)
+**Live Resume:** [https://dhawin.github.io/dhawin-k-career-docs/resume](https://dhawin.github.io/dhawin-k-career-docs/resume)
 
 ## Contact
 
