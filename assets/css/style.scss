@@ -79,6 +79,22 @@ body {
   text-align: center;
   margin: 1rem 0 2rem 0;
   font-size: 0.95rem;
+  display: block;
+}
+
+.main-content h1 + p strong {
+  font-weight: normal;
+}
+
+/* Remove table styling from contact section */
+.main-content table {
+  display: block;
+  width: 100%;
+  overflow: auto;
+}
+
+.main-content p {
+  margin-bottom: 1rem;
 }
 
 /* Lists */

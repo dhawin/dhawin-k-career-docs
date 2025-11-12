@@ -1,22 +1,12 @@
----
-layout: default
-title: Dhawin Kritsernvong - Resume
----
-
 <div align="center">
   <img src="./assets/profile.jpg" alt="Profile Photo" width="150" style="border-radius: 50%;">
 </div>
 
 # Dhawin Kritsernvong
-
-**Senior Full Stack Developer**
-
 📧 k.dhawin@gmail.com | 📱 +66(0) 8 7699 6006 | 📍 Lak Si, Bangkok, Thailand  
 💼 [linkedin.com/in/k-dhawin](http://linkedin.com/in/k-dhawin) | 🐙 [github.com/dhawin](https://github.com/dhawin) | 🌐 [dhawin.github.io/resume](https://dhawin.github.io/resume)
 
----
-
-## Professional Summary
+## Senior Full Stack Developer
 
 Senior Full Stack Developer with 5+ years of experience designing, developing, and maintaining enterprise-level web applications in the financial sector. Expertise in modern frontend frameworks (React, Next.js, TypeScript) and backend technologies (.NET Core, C#), with proven ability to deliver scalable solutions and implement automated CI/CD pipelines. Strong background in integrating CMS platforms and optimizing application performance.
 
@@ -85,6 +75,14 @@ Full-stack developer responsible for designing, developing, and maintaining mult
 
 *Tech Stack: Next.js, TypeScript, Yup, React Hook Form, .NET Core API, Java API, CI/CD*
 
+**QR Rate K Plus**
+- Developed a QR-based interest rate comparison and promotion platform for K Plus mobile banking
+- Built responsive frontend with React and Next.js, and implemented .NET Core APIs for backend services
+- Utilized GitHub Copilot for AI-assisted development, significantly accelerating coding efficiency and reducing development time
+- Enhanced code quality and maintainability through AI-powered code suggestions and best practice recommendations
+
+*Tech Stack: React, Next.js, TypeScript, .NET Core API, GitHub Copilot, AI-Assisted Development*
+
 ---
 
 ### **Synnex (Thailand) Public Company Limited**
@@ -140,7 +138,8 @@ Full-stack developer responsible for designing, developing, and maintaining mult
 
 ## Achievements
 
-- Delivered 4+ enterprise banking platforms (K-Wealth, K Property, Self-Applied, DOSR) at KBTG.  
+- Delivered 5+ enterprise banking platforms (K-Wealth, K Property, Self-Applied, DOSR, QR Rate K Plus) at KBTG.  
 - Reduced manual deployment time by implementing CI/CD pipelines (Jenkins, Azure DevOps).  
-- Improved content search accuracy with Lucene Full-Text Search integration.  
+- Improved content search accuracy with Lucene Full-Text Search integration.
+- Pioneered GitHub Copilot adoption for AI-assisted development, improving code quality and development velocity.
 - Thailand Olympiad in Informatics (Camp 1 & 2, 2012–2013) – C++.
