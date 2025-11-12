@@ -1,0 +1,180 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom Resume Styles */
+:root {
+  --primary-color: #2c3e50;
+  --secondary-color: #3498db;
+  --text-color: #333;
+  --light-bg: #f8f9fa;
+  --border-color: #e1e4e8;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  color: var(--text-color);
+}
+
+.main-content {
+  max-width: 900px;
+  padding: 2rem;
+  font-size: 16px;
+}
+
+/* Header Section */
+.main-content h1 {
+  color: var(--primary-color);
+  border-bottom: 3px solid var(--secondary-color);
+  padding-bottom: 0.5rem;
+  margin-top: 1rem;
+  font-size: 2.5rem;
+}
+
+.main-content h1 + p strong {
+  color: var(--secondary-color);
+  font-size: 1.2rem;
+}
+
+/* Section Headers */
+.main-content h2 {
+  color: var(--primary-color);
+  border-bottom: 2px solid var(--border-color);
+  padding-bottom: 0.3rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-size: 1.8rem;
+}
+
+.main-content h3 {
+  color: var(--secondary-color);
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.3rem;
+}
+
+.main-content h4 {
+  color: var(--primary-color);
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+}
+
+/* Links */
+.main-content a {
+  color: var(--secondary-color);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-bottom 0.3s ease;
+}
+
+.main-content a:hover {
+  border-bottom: 1px solid var(--secondary-color);
+}
+
+/* Contact Info */
+.main-content h1 + p {
+  text-align: center;
+  margin: 1rem 0 2rem 0;
+  font-size: 0.95rem;
+}
+
+/* Lists */
+.main-content ul {
+  padding-left: 1.5rem;
+}
+
+.main-content li {
+  margin-bottom: 0.5rem;
+}
+
+/* Tech Stack */
+.main-content em {
+  color: #666;
+  font-size: 0.9rem;
+  display: block;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+/* Skills Section */
+.main-content h2 + p strong {
+  display: inline-block;
+  min-width: 140px;
+  color: var(--primary-color);
+}
+
+/* Horizontal Rules */
+.main-content hr {
+  border: none;
+  border-top: 1px solid var(--border-color);
+  margin: 2rem 0;
+}
+
+/* Profile Image */
+.main-content img[alt="Profile Photo"] {
+  border: 4px solid var(--secondary-color);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 1rem;
+}
+
+/* Print Styles */
+@media print {
+  .main-content {
+    max-width: 100%;
+    padding: 0;
+  }
+  
+  .site-footer {
+    display: none;
+  }
+  
+  .main-content h1 {
+    font-size: 2rem;
+  }
+  
+  .main-content h2 {
+    font-size: 1.5rem;
+    page-break-after: avoid;
+  }
+  
+  .main-content h3 {
+    page-break-after: avoid;
+  }
+  
+  .main-content a {
+    color: var(--text-color);
+    text-decoration: none;
+  }
+}
+
+/* Responsive */
+@media screen and (max-width: 768px) {
+  .main-content {
+    padding: 1rem;
+  }
+  
+  .main-content h1 {
+    font-size: 2rem;
+  }
+  
+  .main-content h2 {
+    font-size: 1.5rem;
+  }
+  
+  .main-content h1 + p {
+    font-size: 0.85rem;
+  }
+}
+
+/* Footer */
+.site-footer {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border-color);
+  text-align: center;
+  color: #666;
+  font-size: 0.9rem;
+}
