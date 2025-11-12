@@ -18,7 +18,7 @@ title: "Dhawin Kritsernvong - Portfolio"
     <a href="resume" style="display: inline-block; padding: 15px 30px; margin: 10px; background-color: #3498db; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 1.1rem; transition: background-color 0.3s;">
       📄 View Resume
     </a>
-    <a href="./resume.pdf" download style="display: inline-block; padding: 15px 30px; margin: 10px; background-color: #2c3e50; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 1.1rem; transition: background-color 0.3s;">
+    <a href="./resume.pdf" download="Dhawin_Kritsernvong_Resume.pdf" style="display: inline-block; padding: 15px 30px; margin: 10px; background-color: #2c3e50; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 1.1rem; transition: background-color 0.3s;">
       ⬇️ Download PDF
     </a>
   </div>
