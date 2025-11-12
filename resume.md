@@ -4,7 +4,7 @@
 
 # Dhawin Kritsernvong
 📧 k.dhawin@gmail.com | 📱 +66(0) 8 7699 6006 | 📍 Lak Si, Bangkok, Thailand  
-💼 [linkedin.com/in/k-dhawin](http://linkedin.com/in/k-dhawin) | 🐙 [github.com/dhawin](https://github.com/dhawin) | 🌐 [dhawin.github.io/dhawin-k-career-docs/resume](https://dhawin.github.io/dhawin-k-career-docs/resume)
+💼 [linkedin.com/in/k-dhawin](http://linkedin.com/in/k-dhawin) | 🐙 [github.com/dhawin](https://github.com/dhawin) | 🌐 [dhawin.github.io/dhawin-k-career-docs](https://dhawin.github.io/dhawin-k-career-docs)
 
 ## Senior Full Stack Developer
 
