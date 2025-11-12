@@ -1,5 +1,10 @@
+---
+layout: default
+title: Dhawin Kritsernvong - Resume
+---
+
 <div align="center">
-  <img src="./profile.jpg" alt="Profile Photo" width="150" style="border-radius: 50%;">
+  <img src="./assets/profile.jpg" alt="Profile Photo" width="150" style="border-radius: 50%;">
 </div>
 
 # Dhawin Kritsernvong

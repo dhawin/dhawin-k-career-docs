@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: Dhawin Kritsernvong
+description: Senior Full Stack Developer - Resume & Portfolio
+show_downloads: false
+permalink: /:basename
