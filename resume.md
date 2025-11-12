@@ -4,13 +4,11 @@
 
 # Dhawin Kritsernvong
 📧 k.dhawin@gmail.com | 📱 +66(0) 8 7699 6006 | 📍 Lak Si, Bangkok, Thailand  
-💼 [linkedin.com/in/k-dhawin](http://linkedin.com/in/k-dhawin) | 🐙 [github.com/dhawin](https://github.com/dhawin) | 🌐 [dhawin.github.io/resume](https://dhawin.github.io/resume)
+💼 [linkedin.com/in/k-dhawin](http://linkedin.com/in/k-dhawin) | 🐙 [github.com/dhawin](https://github.com/dhawin) | 🌐 [dhawin.github.io/dhawin-k-career-docs](https://dhawin.github.io/dhawin-k-career-docs/)
 
 ## Senior Full Stack Developer
 
 Senior Full Stack Developer with 5+ years of experience designing, developing, and maintaining enterprise-level web applications in the financial sector. Expertise in modern frontend frameworks (React, Next.js, TypeScript) and backend technologies (.NET Core, C#), with proven ability to deliver scalable solutions and implement automated CI/CD pipelines. Strong background in integrating CMS platforms and optimizing application performance.
-
----
 
 ## Technical Skills
 
@@ -21,8 +19,6 @@ Senior Full Stack Developer with 5+ years of experience designing, developing, a
 **Database:** SQL Server, PostgreSQL  
 **Collaboration:** Agile/Scrum, Jira, Git, Confluence, Cross-team Communication
 
----
-
 ## Education
 
 **MSc in Knowledge and Information Systems Management** — Merit  
@@ -30,8 +26,6 @@ University of Southampton, United Kingdom | 2019 - 2020
 
 **BEng in Computer Engineering** — GPA 3.1  
 Sirindhorn International Institute of Technology (SIIT), Thammasat University | 2015 - 2019
-
----
 
 ## Professional Experience
 
@@ -133,8 +127,6 @@ Full-stack developer responsible for designing, developing, and maintaining mult
 - Learned distributed computing concepts and Big Data processing methodologies
 
 *Tech Stack: Cloudera, Hadoop, HDFS, JMS, TCP/UDP Protocols*
-
----
 
 ## Achievements
 
